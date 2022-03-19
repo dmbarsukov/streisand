@@ -1,7 +1,7 @@
 ---
-cloudflared_base_url: "https://bin.equinox.io/c/VdrWdbjqyF/"
+cloudflared_base_url: "https://github.com/cloudflare/cloudflared/releases/download/2022.3.1/"
 
-cloudflared_amd64_apt: "cloudflared-stable-linux-amd64.deb"
+cloudflared_amd64_apt: "cloudflared-linux-amd64.deb"
 cloudflared_amd64_yum: "cloudflared-stable-linux-amd64.rpm"
 cloudflared_amd64_binary: "cloudflared-stable-linux-amd64.tgz"
 cloudflared_arm_apt: "cloudflared-stable-linux-arm.deb"
